@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632460145816",
+    "firebase_url": "https://otp-verification-d558c.firebaseio.com",
+    "project_id": "otp-verification-d558c",
+    "storage_bucket": "otp-verification-d558c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632460145816:android:ae5d5fba1c19e768814ced",
+        "android_client_info": {
+          "package_name": "com.example.agrosol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632460145816-h50b2dsqi4bj7ado0th6ulmuidmq4lk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agrosol",
+            "certificate_hash": "92a2dfe6f42fb82f83ebe5f139772525c3fb2376"
+          }
+        },
+        {
+          "client_id": "632460145816-obkcu9e0gfpqiv2e7bb4pagoehbmn0aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeDjOA6UrIWKbpiwOAWoA6TN4yQ6DRnsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632460145816-obkcu9e0gfpqiv2e7bb4pagoehbmn0aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Agrosol</string>
+    <string name="button1">Enter</string>
+    <string name="layout2">Hello User!</string>
+    <string name="back1">Back</string>
+    <string name="text1">Your Name!</string>
+    <string name="phno">Phone Number</string>
+    <string name="box">Hello Thendi</string>
+    <string name="next_page">Next Page</string>
+    <string name="value">Value</string>
+    <string name="namealert">""</string>
+    <string name="phalert">""</string>
+    <string name="alertMessage">Phone Number Empty</string>
+    <string name="alertTitle">Error</string>
+    <string name="phn_otp">Enter OTP</string>
+    <string name="btn_Generate_OTP">Generate OTP</string>
+    <string name="btn_send">Verify</string>
+</resources>
